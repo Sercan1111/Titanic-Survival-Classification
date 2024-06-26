@@ -1,4 +1,4 @@
-# Electrical Fault Detection Classification
+# Titanic Survival Classification Ensemble Learning
 
 ## Overview
 This project aims to predict the survival of passengers on the Titanic using a dataset of passenger information. The project involves data preprocessing, feature engineering, exploratory data analysis, and classification model training using various machine learning algorithms. The solution is implemented in Python, leveraging libraries such as pandas, scikit-learn, seaborn, and matplotlib.
